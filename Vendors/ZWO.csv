@@ -1,0 +1,3 @@
+Index, Name, Description, Uri, FileName, Method
+1, ZWO Camera Driver, Driver for ZWO Cameras, https://dl.zwoastro.com/software?app=AsiCameraDriver&platform=windows86&region=Overseas, ZWOCamera.exe, Standard
+2, ZWO ASCOM Driver, ASCOM driver for ZWO devices like the EAF, https://dl.zwoastro.com/software?app=ASCOMDrive&platform=windows64&region=Overseas, ZWOASCOM.exe, Standard

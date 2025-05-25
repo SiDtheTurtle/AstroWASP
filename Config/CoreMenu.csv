@@ -1,0 +1,8 @@
+Index, Category, Description, Uri, FileName, Method
+1, Tweaks, Sub-menu with tweaks to improve the Windows experience,,,
+2, ASCOM Platform, "Installs the ASCOM Platform", https://api.github.com/repos/ASCOMInitiative/ASCOMPlatform/releases/latest, ASCOM.exe, GitHub
+3, ASTAP Core, "Installs the core ASTAP application for platesolving", https://sourceforge.net/projects/astap-program/files/windows_installer/astap_setup.exe/download, ASTAP.exe, SourceForge
+4, ASTAP DB, "Installs the largest version of the ASTAP star database", https://sourceforge.net/projects/astap-program/files/star_databases/d80_star_database.exe/download, ASTAP_D80.exe, SourceForge
+5, phd2, "Install phd2s for guiding", https://openphdguiding.org/phd2-2.6.13-installer.exe, phd2.exe, Standard
+6, Vendor Drivers, "Sub-menu to install drivers for component vendors like ZWO",,,
+7, N.I.N.A., "Once all other items are complete, install N.I.N.A.", https://nighttime-imaging.eu/download/, "NINA.zip", Nina
