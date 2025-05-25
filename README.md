@@ -1,6 +1,6 @@
-# Windows Astrophotography Setup Programm AKA AstroWASP
+# Windows Astrophotography Setup Programme AKA AstroWASP
 
-A simple PowerShell tool to prepare a Windows PC for [N.I.N.A.](https://nighttime-imaging.eu/).
+A simple PowerShell tool to set up a Windows PC for the [N.I.N.A.](https://nighttime-imaging.eu/) astrophotography suite.
 
 ## Detailed Description
 Getting a N.I.N.A. PC up and running is relatively easy but fiddly if you don't know what you're doing. This simple PowerShell Script provides a menu to download and install the prequisites, vendor drivers and then N.I.N.A. itself. This was inspired by this tutorial video from Cuiv, The Lazy Geek: https://www.youtube.com/watch?v=ZmY4I-JYueA.
