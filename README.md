@@ -8,7 +8,7 @@ A simple PowerShell tool to set up a Windows PC for the [N.I.N.A.](https://night
 Getting a N.I.N.A. PC up and running is relatively easy but fiddly if you don't know what you're doing. This simple PowerShell Script provides a menu to download and install the prequisites, vendor drivers and then N.I.N.A. itself. This was inspired by this tutorial video from Cuiv, The Lazy Geek: https://www.youtube.com/watch?v=ZmY4I-JYueA.
 
 ## Usage
-1. Download the contents of this repo and extract it.
+1. Download the latest release and extract it.
 2. Open Windows PowerShell as administrator.
 3. Navigate to the folder you extracted using the `CD` command.
 4. Enter `.\AstroWASP.ps1`.
