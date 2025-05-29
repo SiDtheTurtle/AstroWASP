@@ -2,6 +2,8 @@
 
 A simple PowerShell tool to set up a Windows PC for the [N.I.N.A.](https://nighttime-imaging.eu/) astrophotography suite.
 
+![MainMenu](https://github.com/user-attachments/assets/5ee1a749-4a05-40d5-b990-dc595ac2f77f)
+
 ## Detailed Description
 Getting a N.I.N.A. PC up and running is relatively easy but fiddly if you don't know what you're doing. This simple PowerShell Script provides a menu to download and install the prequisites, vendor drivers and then N.I.N.A. itself. This was inspired by this tutorial video from Cuiv, The Lazy Geek: https://www.youtube.com/watch?v=ZmY4I-JYueA.
 
@@ -15,6 +17,8 @@ Getting a N.I.N.A. PC up and running is relatively easy but fiddly if you don't 
 ## Detailed Menu Documentation
 ### 1. Tweaks
 Contains registry edits to improve your Windows experience, such as enabling remote desktop and showing hidden files.
+
+![TweaksMenu](https://github.com/user-attachments/assets/f8da28f7-e336-425c-83f5-d6834b8c751b)
 
 ### 2. ASCOM Platform
 Downloads and installs the latest version of the core ASCOM Platform. This is mandatory for any astro setup.
@@ -30,6 +34,8 @@ Downloads and installs phd2 autoguiding. Again N.I.N.A supports alternatives, bu
 
 ### 6. Vendor Drivers
 Opens a sub-menu of vendor drivers. This is limited to driver config files bundled with the application, or you can add your own (see below).
+
+![VendorSubMenu](https://github.com/user-attachments/assets/8bb90ad3-3eb5-420a-8b66-38615835960b)
 
 ### 7. N.I.N.A.
 Downloads and installs N.I.N.A. itself.
