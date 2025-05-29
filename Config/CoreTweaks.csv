@@ -2,3 +2,5 @@ Index, Description, Notes, Type, Path, Name, EnabledValue, DisabledValue
 1, Enable Remote Desktop Connection, Warning! Do not use if you're already on a remote desktop session!, RegKey, HKLM:\System\CurrentControlSet\Control\Terminal Server, fDenyTSConnections, 0, 1
 2, Show file extensions, , RegKey, HKCU:\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced, HideFileExt, 0, 1
 3, Show hidden files, , RegKey, HKCU:\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced, Hidden, 1, 0
+4, Disable SCOOBE, Turns off the nag screen to create a Windows account that appears on occasion, RegKey, HKCU:\Software\Microsoft\Windows\CurrentVersion\ContentDeliveryManager, SubscribedContent-310093Enabled, 0, 1
+5, Disable desktop recommendations, Turns off helper hints in the notification area on how to use Windows features, RegKey, HKCU:\Software\Microsoft\Windows\CurrentVersion\ContentDeliveryManager, SubscribedContent-338389Enabled, 0, 1
