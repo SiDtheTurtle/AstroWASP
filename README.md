@@ -2,6 +2,8 @@
 
 A simple PowerShell tool to set up a Windows PC for the [N.I.N.A.](https://nighttime-imaging.eu/) astrophotography suite.
 
+![MainMenu](https://github.com/user-attachments/assets/c8cbd806-15e9-4016-8a94-98c501859c4a)
+
 ## Detailed Description
 Getting a N.I.N.A. PC up and running is relatively easy but fiddly if you don't know what you're doing. This simple PowerShell Script provides a menu to download and install the prequisites, vendor drivers and then N.I.N.A. itself. This was inspired by this tutorial video from Cuiv, The Lazy Geek: https://www.youtube.com/watch?v=ZmY4I-JYueA.
 
