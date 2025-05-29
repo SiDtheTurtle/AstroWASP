@@ -18,6 +18,8 @@ Getting a N.I.N.A. PC up and running is relatively easy but fiddly if you don't 
 ### 1. Tweaks
 Contains registry edits to improve your Windows experience, such as enabling remote desktop and showing hidden files.
 
+![TweaksMenu](https://github.com/user-attachments/assets/ef3552e6-d3d3-486d-b068-dea878ad0f77)
+
 ### 2. ASCOM Platform
 Downloads and installs the latest version of the core ASCOM Platform. This is mandatory for any astro setup.
 
@@ -32,6 +34,8 @@ Downloads and installs phd2 autoguiding. Again N.I.N.A supports alternatives, bu
 
 ### 6. Vendor Drivers
 Opens a sub-menu of vendor drivers. This is limited to driver config files bundled with the application, or you can add your own (see below).
+
+![VendorSubMenu](https://github.com/user-attachments/assets/7ad8138d-8ceb-48c3-ae05-0fbe87ded008)
 
 ### 7. N.I.N.A.
 Downloads and installs N.I.N.A. itself.
